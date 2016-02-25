@@ -2,7 +2,7 @@
 
 devdocsbuf is a small plugin bridging the gap between [devdocs](https://github.com/Thibaut/devdocs) and vim. The plugin automates looking up devdocs, converting the result to markdown and opening the result in a new buffer in vim.
 
-<img src="https://raw.githubusercontent.com/thomasthune/i/master/devdocsbuf/devdocsbuf.png" height="450">
+<img src="https://raw.githubusercontent.com/thomasthune/devdocsbuf/master/devdocsbuf.png" height="450">
 
 ## Requirements
 

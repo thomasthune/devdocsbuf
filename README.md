@@ -5,13 +5,12 @@ devdocsbuf is a small plugin bridging the gap between [devdocs](https://github.c
 ## Requirements
 
 The plugin relies on devdocs beeing set up locally and the html2text converting tool.
-[devdocs](https://github.com/Thibaut/devdocs)
 
-Install locally and download the wanted docs. Follow the excellent guide on the github page.
+* [devdocs](https://github.com/Thibaut/devdocs) - 
+  Install locally and download the wanted docs. Follow the excellent guide on the github page.
 
-[html2text](https://github.com/aaronsw/html2text)
-
-Install with pip `pip install [-g] html2text`, and make sure it is executable from your $PATH.
+* [html2text](https://github.com/aaronsw/html2text) - 
+  Install with pip `pip install [-g] html2text`, and make sure it is executable from your $PATH.
 
 ## How does it work
 
